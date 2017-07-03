@@ -1,0 +1,2 @@
+# maenanCocos
+script latihan cocos
